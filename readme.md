@@ -2,7 +2,7 @@ Just some covers for games, optimised for Heroic's cropping. (bits of the top an
 Some of them are originally from SteamGridDB, such as fnf, which I edited to fit Heroic better.
 
 Some notes:
-- [krp-vr](krp-vr.png) is Kart Racing Pro's VR mode, with a generic VR icon poorly attached to the driver's helmet from the regular cover art.
+- [krp-vr](krp-vr.jpg) is Kart Racing Pro's VR mode, with a generic VR icon poorly attached to the driver's helmet from the regular cover art.
 - [cloudfall](cloudfall.png) and [overhead](overhead.png) are from my classwork. Maybe I'll release them someday.
 - [njap](njap.png) is Abandoned Pub from the Neuro Game Jam (njap = Neuro Jam Abandoned Pub). I edited the cover so it doesn't look as cropped.
 - [unhando](unhando.png) had a lot of effort put into making it look nice. it's also from the Neuro Game Jam and is quite fun to play.
