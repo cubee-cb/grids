@@ -12,6 +12,6 @@ Some notes:
 - Non-game programs:
   - [utau](utau.png) works if you set the environment variables right, something like setting `LC_ALL` and `LANG` both to `ja_JP.UTF-8`. but at this point it's probably better to use [openutau](openutau.png).
   - [vnyan](vnyan.png) is for the vtubing software of the same name. nothing special.
-  - [moat](moat.png) is for the Museum of Other Realities, an OpenXR-based wikipedia experience.
+  - [moat](moat.png) is for the Museum of All Things, an OpenXR-based wikipedia experience.
 
 I would put these on SteamGridDB but I need to request games to be added for a lot of these, which I can't be bothered doing and they probably wouldn't get added based on the requirements anyway, so think of this as my personal GridDB.
