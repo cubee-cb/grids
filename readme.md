@@ -6,8 +6,8 @@ Notable entries follow.
 ### My projects
 
 - [ncr](ncr.png) is for [Ninja Cat Remewstered](https://pixelshock.itch.io/ninja-cat-remewstered).
-- [cloudfall](cloudfall.png) is for Cloudfall. It is currently unreleased, however there is a [VRChat world]() that replicates the environment with no funcitonality.
-- [overhead](overhead.png) is available on my [itch.io page](https://cubeegames.itch.io/overhead).
+- [cloudfall](cloudfall.png) is for Cloudfall. It is currently unreleased, however there is a [VRChat world](https://vrchat.com/home/world/wrld_bd193bb7-5c7e-4c68-9bd8-3445ab1c1fa8) that replicates the environment with no funcitonality.
+- [overhead](overhead.png) is available [here on itch.io](https://cubeegames.itch.io/overhead).
 - [whimsy](whimsy.png) is available [here on itch.io](https://peopleofwhimsy.itch.io/whimsy).
 
 ### Other games
